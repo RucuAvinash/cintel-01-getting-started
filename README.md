@@ -116,3 +116,5 @@ git push -u origin main
 
 - Use the **UP ARROW** and **DOWN ARROW** in the terminal to scroll through past commands.
 - Use `CTRL+f` to find (and replace) text within a file.
+## Technical Modification
+I created a copy of the Pipeline_case.py and modified the logging messages and ranthe python file. I validated the project,log and confirmed that the updates reflected correctly.
